@@ -61,10 +61,10 @@ To deploy a free translation bot that you can add to your discord server, follow
 
 ## Credits & License
 
-This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for simple and free deployment of the bot using Heroku. Both would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
+This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for simple and free deployment of the bot using Heroku. ZyCR3 Picked up the fork and fixed over 200 errors, All would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
 
 
 - [discord-translator](https://github.com/nvuio/discord-translator) created by [nvu.io](https://nvu.io) / Aziz Natour - [@aziznatour](http://www.twitter.com/aziznatour)
-- [Louie](https://github.com/NotMyself/Louie) forked by [NotMyself](https://iamnotmyself.com/) / Bobby Johnson - [@NotMyself](https://twitter.com/NotMyself)
+- [Louie](https://github.com/NotMyself/Louie) forked by [NotMyself](https://iamnotmyself.com/) / Bobby Johnson - [@NotMyself](https://twitter.com/NotMyself) forked by [ZyC0R3](https://github.com/ZyC0R3/C-3PO)
 
 Released under MIT license.
